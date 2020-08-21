@@ -1,0 +1,9 @@
+azureml-sdk
+matplotlib
+numpy
+opencv-python
+pytest
+scipy==1.4.1
+scikit-learn==0.20.0
+tensorflow-gpu==2.1.0
+transformations
